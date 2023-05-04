@@ -25,4 +25,6 @@ The PSO algorithm is a population-based algorithm that is inspired by the collec
 
 ---
 
+![](assets/Studio_Project.mp4)
+
 Overall, each metaheuristic algorithm has its strengths and weaknesses, and the choice of which algorithm to use depends on the specific problem being solved and the resources available for computation. 
